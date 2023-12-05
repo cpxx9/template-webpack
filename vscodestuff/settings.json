@@ -4,6 +4,7 @@
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.editor.revealIfOpen": true,
   "git.autofetch": true,
   "update.mode": "none",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -51,5 +52,6 @@
         },
       },
     ],
-  }
+  },
+  "editor.mouseWheelZoom": true
 }
