@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --verbose --watch ./src/JS/*.js",
     "build": "webpack --mode production --config webpack.prod.js",
-    "dev": "webpack serve --mode development--config webpack.dev.js"
+    "dev": "webpack serve --mode development --config webpack.dev.js"
   },
   "author": "CJP Labs <prattecole@gmail.com>",
   "license": "MIT",
